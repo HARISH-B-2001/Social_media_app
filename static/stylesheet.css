@@ -21,6 +21,7 @@ div {
     border-style: solid;
     font-size: large;
     background-color: powderblue;
+    border-radius: 2em;
 }
 
 label {
