@@ -1,5 +1,5 @@
 <?php
 
-include_once("main.py");
+include_once("index.py");
 
 ?>
